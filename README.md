@@ -1,2 +1,2 @@
 # Examen
-S.E PIC 18F46620
+Sistema Embebido PIC 18F46620
